@@ -15,5 +15,7 @@
 并将`img`中的`.png`文件放置于正确路径, 在需要点击事件的按钮/元素上添加`class=_share_weixin`即可.
 
 ##演示效果:
+微信内访问：
+- [链接](http://www.collegedaily.cc/)
 ![](./weixin_share_js.jpg)
 
